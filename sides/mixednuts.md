@@ -4,6 +4,7 @@
 
 - Coconuts
 - Pistachio
+- Macadamia nut
 
 
 ## Instructions
